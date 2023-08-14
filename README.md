@@ -1,1 +1,2 @@
-# Jogo-do-Trex
+# JogoTrexWebWrapper
+JogoTrexWebWrapper
